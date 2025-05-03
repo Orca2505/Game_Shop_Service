@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebDevProject.Models.Game>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Games</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Developer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                Release Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="tbodyGameTable">
+
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/gameIndex.js" type="module"></script>
+}

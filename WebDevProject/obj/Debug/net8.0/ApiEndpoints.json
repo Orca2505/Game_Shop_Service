@@ -1,0 +1,69 @@
+[
+  {
+    "ContainingType": "WebDevProject.Controllers.GameAPIController",
+    "Method": "Index",
+    "RelativePath": "api/game/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebDevProject.Controllers.GameAPIController",
+    "Method": "Create",
+    "RelativePath": "api/game/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Developer",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Publisher",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ReleaseDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "selectedGenreId",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "AllGenres",
+        "Type": "System.Collections.Generic.List\u00601[[WebDevProject.Models.Genre, WebDevProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebDevProject.Controllers.GameAPIController",
+    "Method": "Delete",
+    "RelativePath": "api/game/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
