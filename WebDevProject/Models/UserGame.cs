@@ -4,7 +4,7 @@
     {
         public int Id { get; set; }
 
-        public int userId { get; set; }
+        public required string userId { get; set; }
         public User? User { get; set; }
 
         public int gameId { get; set; }

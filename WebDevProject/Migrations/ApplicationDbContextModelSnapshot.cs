@@ -210,11 +210,16 @@ namespace WebDevProject.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("GroupId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("GroupId");
 
                     b.ToTable("Genre");
 
@@ -245,9 +250,7 @@ namespace WebDevProject.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Franchise")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Genre")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -259,29 +262,19 @@ namespace WebDevProject.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OwnerId");
-
                     b.ToTable("Group");
                 });
 
             modelBuilder.Entity("WebDevProject.Models.User", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<int?>("GroupId")
-                        .HasColumnType("int");
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("user_name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("GroupId");
 
                     b.ToTable("users");
                 });
@@ -297,8 +290,9 @@ namespace WebDevProject.Migrations
                     b.Property<int>("gameId")
                         .HasColumnType("int");
 
-                    b.Property<int>("userId")
-                        .HasColumnType("int");
+                    b.Property<string>("userId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
 
@@ -448,21 +442,10 @@ namespace WebDevProject.Migrations
                     b.Navigation("Genre");
                 });
 
-            modelBuilder.Entity("WebDevProject.Models.Group", b =>
-                {
-                    b.HasOne("WebDevProject.Models.User", "Owner")
-                        .WithMany()
-                        .HasForeignKey("OwnerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Owner");
-                });
-
-            modelBuilder.Entity("WebDevProject.Models.User", b =>
+            modelBuilder.Entity("WebDevProject.Models.Genre", b =>
                 {
                     b.HasOne("WebDevProject.Models.Group", null)
-                        .WithMany("Members")
+                        .WithMany("AllGenres")
                         .HasForeignKey("GroupId");
                 });
 
@@ -499,7 +482,7 @@ namespace WebDevProject.Migrations
 
             modelBuilder.Entity("WebDevProject.Models.Group", b =>
                 {
-                    b.Navigation("Members");
+                    b.Navigation("AllGenres");
                 });
 
             modelBuilder.Entity("WebDevProject.Models.User", b =>

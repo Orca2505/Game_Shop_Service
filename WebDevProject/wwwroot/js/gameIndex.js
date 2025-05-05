@@ -27,8 +27,7 @@ function AddGameToTable(tbody, game) {
         }
     });
     // Initialize buttons for each game
-    const editLink = createLink("Edit", `${game["id"]}`, "warning");
-    const detailsLink = createLink("Details", `${game["id"]}`, "info");
+    const purchaseLink = createLink("Purchase", `${game["id"]}`, "info");
     const deleteLink = createLink("Delete", `${game["id"]}`, "danger");
 
     // Add an event listener for each button
@@ -36,6 +35,11 @@ function AddGameToTable(tbody, game) {
         e.preventDefault();
         await gameRepo.Delete(game["id"]);
         tr.remove();
+    });
+
+    purchaseLink.addEventListener("click", async (e) => {
+        e.preventDefault();
+        await gameRepo.CreateUserGame(game["id"]);
     });
 
     const td = document.createElement("td");

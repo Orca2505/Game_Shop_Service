@@ -59,5 +59,16 @@ namespace WebDevProject.Services
 
             return genreString;
         }
+
+        public async Task CreateUserGame(int gameId, string userId)
+        {
+            var purchase = new UserGame
+            {
+                gameId = gameId,
+                userId = userId
+            };
+            _db.userGames.Add(purchase);
+            await _db.SaveChangesAsync();
+        }
     }
 }

@@ -29,7 +29,12 @@ export class GameRepository {
     }
 
     async Delete(id) {
-        const address = `${this.#baseAddress}/delete/${id}`
+        const address = `${this.#baseAddress}/delete/${id}`;
         const response = await fetch(address, { method: "DELETE" });
+    }
+
+    async CreateUserGame(id) {
+        const address = `${this.baseAddress}/purchase/${id}`;
+        const response = await fetch(address);
     }
 }

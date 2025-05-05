@@ -4,15 +4,17 @@ using WebDevProject.Models;
 using WebDevProject.Models.ViewModels;
 using Microsoft.AspNetCore.Cors;
 using System.Globalization;
+using Microsoft.AspNetCore.Identity;
 
 namespace WebDevProject.Controllers
 {
     [Route("api/game")]
     [ApiController]
     [EnableCors]
-    public class GameAPIController(IGameRepository gameRepository) : ControllerBase
+    public class GameAPIController(IGameRepository gameRepository, UserManager<ApplicationUser> userManager) : ControllerBase
     {
         private readonly IGameRepository _gameRepo = gameRepository;
+        private readonly UserManager<ApplicationUser> _user = userManager;
 
         [HttpGet("all")]
         public async Task<IActionResult> Index()
@@ -66,6 +68,21 @@ namespace WebDevProject.Controllers
         {
             await _gameRepo.DeleteGame(id);
             return NoContent();
+        }
+
+        [HttpPost("purchase/{gameId}")]
+        public async Task<IActionResult> Purchase(int gameId)
+        {
+            string? userId = _user.GetUserId(User);
+
+            if (userId == null)
+            {
+                return BadRequest();
+            }
+
+            await _gameRepo.CreateUserGame(gameId, userId);
+            return StatusCode(201);
+
         }
     }
 }

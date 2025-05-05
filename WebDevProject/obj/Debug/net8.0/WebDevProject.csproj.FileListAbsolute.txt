@@ -634,3 +634,4 @@ C:\Users\Yeetc\Desktop\School\Spring 2025\Advanced Web Dev\Game_Shop_Service\Web
 C:\Users\Yeetc\Desktop\School\Spring 2025\Advanced Web Dev\Game_Shop_Service\WebDevProject\obj\Debug\net8.0\WebDevProject.pdb
 C:\Users\Yeetc\Desktop\School\Spring 2025\Advanced Web Dev\Game_Shop_Service\WebDevProject\obj\Debug\net8.0\WebDevProject.genruntimeconfig.cache
 C:\Users\Yeetc\Desktop\School\Spring 2025\Advanced Web Dev\Game_Shop_Service\WebDevProject\obj\Debug\net8.0\ref\WebDevProject.dll
+C:\Users\Yeetc\Desktop\School\Spring 2025\Advanced Web Dev\Game_Shop_Service\WebDevProject\obj\Debug\net8.0\WebDevProject.sourcelink.json

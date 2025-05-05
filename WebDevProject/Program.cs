@@ -36,6 +36,7 @@ namespace WebDevProject
 
             builder.Services.AddScoped<IUserRepository, DbUserRepository>();
             builder.Services.AddScoped<IGameRepository, DbGameRepository>();
+            builder.Services.AddScoped<IGroupRepository, DbGroupRepository>();
 
             var app = builder.Build();
 

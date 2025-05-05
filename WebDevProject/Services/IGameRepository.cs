@@ -9,5 +9,6 @@ namespace WebDevProject.Services
         Task DeleteGame(int id);
         Task CreateGameGenreAsync(Game game, ICollection<int> genreIds);
         Task<ICollection<string>> GetGameGenres(int gameId);
+        Task CreateUserGame(int gameId, string userId);
     }
 }

@@ -3,10 +3,12 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace WebDevProject.Migrations
 {
     /// <inheritdoc />
-    public partial class ProjectMig00 : Migration
+    public partial class ProjectMig01 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -60,7 +62,6 @@ namespace WebDevProject.Migrations
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Developer = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Publisher = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Genre = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ReleaseDate = table.Column<DateOnly>(type: "date", nullable: false)
                 },
                 constraints: table =>
@@ -69,11 +70,25 @@ namespace WebDevProject.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "users",
+                name: "Group",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    OwnerId = table.Column<int>(type: "int", nullable: false),
+                    Franchise = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Group", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "users",
+                columns: table => new
+                {
+                    Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     user_name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
@@ -188,12 +203,31 @@ namespace WebDevProject.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Genre",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    GroupId = table.Column<int>(type: "int", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Genre", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Genre_Group_GroupId",
+                        column: x => x.GroupId,
+                        principalTable: "Group",
+                        principalColumn: "Id");
+                });
+
+            migrationBuilder.CreateTable(
                 name: "userGames",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    userId = table.Column<int>(type: "int", nullable: false),
+                    userId = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     gameId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
@@ -211,6 +245,40 @@ namespace WebDevProject.Migrations
                         principalTable: "users",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "gameGenre",
+                columns: table => new
+                {
+                    GameId = table.Column<int>(type: "int", nullable: false),
+                    GenreId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_gameGenre", x => new { x.GameId, x.GenreId });
+                    table.ForeignKey(
+                        name: "FK_gameGenre_Genre_GenreId",
+                        column: x => x.GenreId,
+                        principalTable: "Genre",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_gameGenre_games_GameId",
+                        column: x => x.GameId,
+                        principalTable: "games",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.InsertData(
+                table: "Genre",
+                columns: new[] { "Id", "GroupId", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, "RPG" },
+                    { 2, null, "Competitive" },
+                    { 3, null, "Platformer" }
                 });
 
             migrationBuilder.CreateIndex(
@@ -253,6 +321,16 @@ namespace WebDevProject.Migrations
                 filter: "[NormalizedUserName] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
+                name: "IX_gameGenre_GenreId",
+                table: "gameGenre",
+                column: "GenreId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Genre_GroupId",
+                table: "Genre",
+                column: "GroupId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_userGames_gameId",
                 table: "userGames",
                 column: "gameId");
@@ -282,6 +360,9 @@ namespace WebDevProject.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
+                name: "gameGenre");
+
+            migrationBuilder.DropTable(
                 name: "userGames");
 
             migrationBuilder.DropTable(
@@ -291,10 +372,16 @@ namespace WebDevProject.Migrations
                 name: "AspNetUsers");
 
             migrationBuilder.DropTable(
+                name: "Genre");
+
+            migrationBuilder.DropTable(
                 name: "games");
 
             migrationBuilder.DropTable(
                 name: "users");
+
+            migrationBuilder.DropTable(
+                name: "Group");
         }
     }
 }
