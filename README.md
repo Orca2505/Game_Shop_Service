@@ -1,3 +1,6 @@
+Disclaimer: I broke a few things in my last commit before the due date that I fized in a later commit. This is stored on the "late_branch" branch. If you want to grade the fix that I pushed late then go to that branch,
+            however if you want to grade work only submitted before the due date, stay on the main branch.
+
 IMPORTANT: Getting this project to work may require running update-database in the package manager console. If that doesn't work, try generating a new migration and try it again.
 
 AI disclosure:
