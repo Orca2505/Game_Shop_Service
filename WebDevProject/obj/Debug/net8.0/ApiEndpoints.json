@@ -65,5 +65,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebDevProject.Controllers.GameAPIController",
+    "Method": "Purchase",
+    "RelativePath": "api/game/purchase/{gameId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -41,7 +41,7 @@ namespace WebDevProject.Controllers
                 return BadRequest();
             }
 
-            group.OwnerId = Convert.ToInt32(userId);
+            group.OwnerId = userId;
             await _groupRepo.CreateGroup(group);
             return RedirectToAction("Index");
         }

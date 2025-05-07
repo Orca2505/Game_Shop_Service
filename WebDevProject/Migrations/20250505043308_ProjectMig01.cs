@@ -76,7 +76,7 @@ namespace WebDevProject.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    OwnerId = table.Column<int>(type: "int", nullable: false),
+                    OwnerId = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Franchise = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
@@ -278,7 +278,17 @@ namespace WebDevProject.Migrations
                 {
                     { 1, null, "RPG" },
                     { 2, null, "Competitive" },
-                    { 3, null, "Platformer" }
+                    { 3, null, "Platformer" },
+                    { 4, null, "Action" },
+                    { 5, null, "Simulation" },
+                    { 6, null, "FPS" },
+                    { 7, null, "Puzzle" },
+                    { 8, null, "Sports" },
+                    { 9, null, "Fighting" },
+                    { 10, null, "Party" },
+                    { 11, null, "Adventure" },
+                    { 12, null, "Strategy" },
+                    { 13, null, "Racing" }
                 });
 
             migrationBuilder.CreateIndex(

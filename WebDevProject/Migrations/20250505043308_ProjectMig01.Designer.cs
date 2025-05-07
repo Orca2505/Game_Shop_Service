@@ -12,7 +12,7 @@ using WebDevProject.Services;
 namespace WebDevProject.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250505014739_ProjectMig01")]
+    [Migration("20250505043308_ProjectMig01")]
     partial class ProjectMig01
     {
         /// <inheritdoc />
@@ -241,6 +241,56 @@ namespace WebDevProject.Migrations
                         {
                             Id = 3,
                             Name = "Platformer"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = "Action"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Name = "Simulation"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Name = "FPS"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Name = "Puzzle"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Name = "Sports"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Name = "Fighting"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Name = "Party"
+                        },
+                        new
+                        {
+                            Id = 11,
+                            Name = "Adventure"
+                        },
+                        new
+                        {
+                            Id = 12,
+                            Name = "Strategy"
+                        },
+                        new
+                        {
+                            Id = 13,
+                            Name = "Racing"
                         });
                 });
 
@@ -260,8 +310,9 @@ namespace WebDevProject.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("OwnerId")
-                        .HasColumnType("int");
+                    b.Property<string>("OwnerId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

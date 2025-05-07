@@ -43,8 +43,7 @@ function AddGameToTable(tbody, game) {
     });
 
     const td = document.createElement("td");
-    td.appendChild(editLink);
-    td.appendChild(detailsLink);
+    td.appendChild(purchaseLink);
     td.appendChild(deleteLink);
     tr.appendChild(td);
 }

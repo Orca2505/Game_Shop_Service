@@ -3,44 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\gameapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\gameapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\wwwroot\\js\\gamerepository.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:wwwroot\\js\\gamerepository.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\wwwroot\\js\\gameindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:wwwroot\\js\\gameindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\dbgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\dbgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\wwwroot\\js\\gameindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:wwwroot\\js\\gameindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\migrations\\20250505043308_projectmig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:migrations\\20250505043308_projectmig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\viewmodels\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\viewmodels\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\viewmodels\\gameindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\viewmodels\\gameindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\dbgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\dbgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -73,16 +109,8 @@
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Migrations\\20250505014739_ProjectMig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250505014739_ProjectMig01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\usergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\usergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\dbgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\dbgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,36 +121,12 @@
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\viewmodels\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\viewmodels\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\wwwroot\\js\\gamecreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:wwwroot\\js\\gamecreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\viewmodels\\gameindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\viewmodels\\gameindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,10 +135,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\models\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:models\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|c:\\users\\yeetc\\desktop\\school\\spring 2025\\advanced web dev\\game_shop_service\\webdevproject\\services\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81273FD4-1504-41E4-9198-A831315319F4}|WebDevProject.csproj|solutionrelative:services\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\WebDevProject\\Migrations\\20250418005517_WebApp01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -151,31 +151,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCYAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T16:11:21.963Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameAPIController.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameAPIController.cs",
               "RelativeDocumentMoniker": "Controllers\\GameAPIController.cs",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameAPIController.cs",
               "RelativeToolTip": "Controllers\\GameAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T19:10:23.416Z",
               "IsPinned": true,
@@ -183,369 +182,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GameRepository.js",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\GameRepository.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\GameRepository.js",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\GameRepository.js",
               "RelativeToolTip": "wwwroot\\js\\GameRepository.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-26T16:08:57.358Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GroupController.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GroupController.cs",
               "RelativeDocumentMoniker": "Controllers\\GroupController.cs",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GroupController.cs",
               "RelativeToolTip": "Controllers\\GroupController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T03:37:20.623Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "DbGameRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGameRepository.cs",
               "RelativeDocumentMoniker": "Services\\DbGameRepository.cs",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGameRepository.cs",
               "RelativeToolTip": "Services\\DbGameRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T02:14:17.056Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "gameIndex.js",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameIndex.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\gameIndex.js",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameIndex.js",
               "RelativeToolTip": "wwwroot\\js\\gameIndex.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-26T16:43:54.6Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameController.cs",
-              "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA8AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "20250505043308_ProjectMig01.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Migrations\\20250505043308_ProjectMig01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505043308_ProjectMig01.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Migrations\\20250505043308_ProjectMig01.cs",
+              "RelativeToolTip": "Migrations\\20250505043308_ProjectMig01.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:53:00.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T04:33:08.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IGameRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGameRepository.cs",
-              "RelativeDocumentMoniker": "Services\\IGameRepository.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGameRepository.cs",
-              "RelativeToolTip": "Services\\IGameRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T23:36:49.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "Models\\Group.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Group.cs",
-              "RelativeToolTip": "Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T02:55:18.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:57:04.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Genre.cs",
-              "RelativeToolTip": "Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:27:30.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T01:56:36.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Group\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Index.cshtml",
-              "RelativeToolTip": "Views\\Group\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T05:20:45.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Group\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Create.cshtml",
-              "RelativeToolTip": "Views\\Group\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T10:16:43.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "dbo.users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.users.sql",
-              "ToolTip": "dbo.users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T01:56:05.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-05T01:55:58.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T00:39:27.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAA9wI0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T22:00:26.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250505014739_ProjectMig01.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Migrations\\20250505014739_ProjectMig01.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250505014739_ProjectMig01.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Migrations\\20250505014739_ProjectMig01.cs",
-              "RelativeToolTip": "Migrations\\20250505014739_ProjectMig01.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T01:47:39.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DbGroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGroupRepository.cs",
-              "RelativeDocumentMoniker": "Services\\DbGroupRepository.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGroupRepository.cs",
-              "RelativeToolTip": "Services\\DbGroupRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:26:22.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserGame.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\UserGame.cs",
-              "RelativeDocumentMoniker": "Models\\UserGame.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\UserGame.cs",
-              "RelativeToolTip": "Models\\UserGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T00:52:19.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:53:10.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "Models\\Game.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Game.cs",
-              "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T22:37:33.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IGroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGroupRepository.cs",
-              "RelativeDocumentMoniker": "Services\\IGroupRepository.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGroupRepository.cs",
-              "RelativeToolTip": "Services\\IGroupRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:01:34.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:04:57.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:50:41.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Services\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IUserRepository.cs",
-              "RelativeToolTip": "Services\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:09:33.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Game\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Create.cshtml",
-              "RelativeToolTip": "Views\\Game\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T19:50:11.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
               "Title": "GameCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\ViewModels\\GameCreateVM.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\GameCreateVM.cs",
               "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\ViewModels\\GameCreateVM.cs",
               "RelativeToolTip": "Models\\ViewModels\\GameCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:10:51.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T19:10:51.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "gameCreate.js",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameCreate.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\gameCreate.js",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameCreate.js",
-              "RelativeToolTip": "wwwroot\\js\\gameCreate.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-26T16:25:30.041Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:55:18.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 8,
               "Title": "GameIndexVM.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\ViewModels\\GameIndexVM.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\GameIndexVM.cs",
@@ -553,38 +278,23 @@
               "RelativeToolTip": "Models\\ViewModels\\GameIndexVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:12:05.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T00:12:05.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T19:28:45.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "GameGenre.cs",
-              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\GameGenre.cs",
-              "RelativeDocumentMoniker": "Models\\GameGenre.cs",
-              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\GameGenre.cs",
-              "RelativeToolTip": "Models\\GameGenre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:29:19.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T15:53:00.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 11,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Services\\ApplicationUser.cs",
@@ -592,8 +302,265 @@
               "RelativeToolTip": "Services\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:56:31.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:56:31.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:57:04.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGroupRepository.cs",
+              "RelativeDocumentMoniker": "Services\\DbGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\DbGroupRepository.cs",
+              "RelativeToolTip": "Services\\DbGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:26:22.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGameRepository.cs",
+              "RelativeToolTip": "Services\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T23:36:49.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IGroupRepository.cs",
+              "RelativeToolTip": "Services\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:01:34.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:09:33.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Create.cshtml",
+              "RelativeToolTip": "Views\\Game\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T19:50:11.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Group\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Create.cshtml",
+              "RelativeToolTip": "Views\\Group\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:16:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:04:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:27:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T01:56:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "Views\\Group\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T05:20:45.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T01:56:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameDB_WebDevProject_52da47d3_ab80_4a36_899f_1c5ec4735a2b/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-05T01:55:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T00:39:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAA9wI0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:00:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserGame.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\UserGame.cs",
+              "RelativeDocumentMoniker": "Models\\UserGame.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\UserGame.cs",
+              "RelativeToolTip": "Models\\UserGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:52:19.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:53:10.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:37:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:50:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "gameCreate.js",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameCreate.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\gameCreate.js",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\wwwroot\\js\\gameCreate.js",
+              "RelativeToolTip": "wwwroot\\js\\gameCreate.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T16:25:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:28:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\GameGenre.cs",
+              "RelativeDocumentMoniker": "Models\\GameGenre.cs",
+              "ToolTip": "C:\\Users\\Yeetc\\Desktop\\School\\Spring 2025\\Advanced Web Dev\\Game_Shop_Service\\WebDevProject\\Models\\GameGenre.cs",
+              "RelativeToolTip": "Models\\GameGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:29:19.89Z"
             },
             {
               "$type": "Document",
@@ -616,8 +583,7 @@
               "RelativeToolTip": "WebDevProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-17T15:56:36.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:56:36.141Z"
             }
           ]
         }
